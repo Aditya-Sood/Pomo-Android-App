@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FF5722</color>
-    <color name="colorPrimaryDark">#DD2C00</color>
+    <color name="colorPrimary">#ff6e40</color>
+    <color name="colorPrimaryDark">#c53d13</color>
     <color name="colorAccent">#FF4081</color>
     <color name="appBackground">#FF3D00</color>
-    <color name="timerBackground">#000000</color>
-    <color name="buttonBackground">#FF5722</color>
-    <color name="progFull">#64DD17</color>
-    <color name="progEmpty">#1B5E20</color>
+    <color name="timerBackground">#2e7d32</color>
+    <color name="buttonBackground">#005005</color>
+    <color name="progFull">#c30000</color>
+    <color name="progEmpty">#ff6e40</color>
     <color name="textColor">#FFFFFF</color>
 
 </resources>
